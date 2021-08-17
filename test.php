@@ -1,4 +1,4 @@
 <?php
     echo 'Testing cs';
-    $test = null;
+    $test = 'checking';
     echo $test;
